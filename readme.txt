@@ -18,3 +18,5 @@ pip install ****:
 cv2: opencv,pip install opencv-python,pip install opencv-contrib-python
 pickle:pip install pickle-mixin
 PIL: pillow,Python Imaging Library,pip install Pillow
+
+Lưu ý: cần train dữ liệu trước khi chạy main.py
